@@ -1,1 +1,2 @@
 - Hi, I’m The-Eye-of-Ar3s and I'm a 19 year old programmer from Austria.
+- Right now im working on making compilers/translators/interpreters for various esolangs and old  programming languages.
