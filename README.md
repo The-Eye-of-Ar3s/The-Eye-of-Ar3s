@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Etienne Herzig</h1>
 <h3 align="center">A passionate programmer from Austria</h3>
 
-- 🔭 I’m currently working on [the (R)ust (U)nified (C)ompiler](https://github.com/The-Eye-of-Ar3s/rust_unified_compiler)
+- 🔭 I’m currently working on [SPTarkov mods](https://github.com/The-Eye-of-Ar3s/SPTarkov)
 
 - 🌱 I’m currently learning **Rust & LLVM**
 
