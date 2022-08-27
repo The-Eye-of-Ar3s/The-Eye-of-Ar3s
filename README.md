@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Etienne Herzig</h1>
-<h3 align="center">A passionate programmer from Austria</h3>
+<h3 align="center">A passionate programmer from Switzerland</h3>
 
 - 🔭 I’m currently working on [SPTarkov mods](https://github.com/The-Eye-of-Ar3s/SPTarkov)
 
